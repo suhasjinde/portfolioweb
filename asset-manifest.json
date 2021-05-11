@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/portfolioweb/static/js/main.e094ecf4.chunk.js",
+    "main.js.map": "/portfolioweb/static/js/main.e094ecf4.chunk.js.map",
+    "runtime-main.js": "/portfolioweb/static/js/runtime-main.ed342a60.js",
+    "runtime-main.js.map": "/portfolioweb/static/js/runtime-main.ed342a60.js.map",
+    "static/js/2.eaa8b725.chunk.js": "/portfolioweb/static/js/2.eaa8b725.chunk.js",
+    "static/js/2.eaa8b725.chunk.js.map": "/portfolioweb/static/js/2.eaa8b725.chunk.js.map",
+    "index.html": "/portfolioweb/index.html",
+    "static/js/2.eaa8b725.chunk.js.LICENSE.txt": "/portfolioweb/static/js/2.eaa8b725.chunk.js.LICENSE.txt",
+    "static/media/MERN.eec93e7d.png": "/portfolioweb/static/media/MERN.eec93e7d.png",
+    "static/media/datascience.2a076cc3.jpg": "/portfolioweb/static/media/datascience.2a076cc3.jpg",
+    "static/media/java.5e34f23e.png": "/portfolioweb/static/media/java.5e34f23e.png",
+    "static/media/msazure.0165c931.jpg": "/portfolioweb/static/media/msazure.0165c931.jpg",
+    "static/media/python.5b7de54a.png": "/portfolioweb/static/media/python.5b7de54a.png",
+    "static/media/suhas.81ada321.png": "/portfolioweb/static/media/suhas.81ada321.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed342a60.js",
+    "static/js/2.eaa8b725.chunk.js",
+    "static/js/main.e094ecf4.chunk.js"
+  ]
+}
